@@ -1,0 +1,3 @@
+[console_scripts]
+flaskdev = flask_appconfig.cmd:main_flaskdev
+

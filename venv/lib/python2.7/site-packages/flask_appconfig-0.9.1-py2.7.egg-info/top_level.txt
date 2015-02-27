@@ -1,0 +1,2 @@
+flaskdev
+flask_appconfig
